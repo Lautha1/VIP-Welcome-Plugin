@@ -1,0 +1,11 @@
+main: me.cockatoo2x.plugins.vipwelcome.VIPWelcome
+name: VIPWelcome
+version: 2.1
+author: Cockatoo2X
+description: Sends a message and a fire work when VIP's join the server!
+prefix: VIP Welcome
+permissions:
+    vip.join.firework:
+        description: Sends a firework on vip join!
+    vip.join.message:
+        description: Sends a message on vip join!
